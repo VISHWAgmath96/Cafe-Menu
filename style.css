@@ -1,0 +1,90 @@
+h1, h2, p {
+    text-align:center;
+}
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.bpH4O9lFalzFy9JJcUMJfgHaG6?rs=1&pid=ImgDetMain);
+    font-family: sans-serif;
+    padding: 20px;
+}
+.menu {
+    width:60%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+.item p {
+    display:inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+.flavor {
+    text-align: left;
+    width:75%;
+}
+.price {
+    text-align: right;
+    width:25%;
+}
+.price1 {
+    text-align: right;
+    width: 91.5%;
+}
+.price2 {
+    text-align: right;
+    width: 85.5%;
+}
+.price3 {
+    text-align: right;
+    width: 83%;
+}
+.price4 {
+    text-align: right;
+    width: 79.8%;
+}
+h1, h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.established {
+    font-style: italic;
+}
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom:15px;
+}
+h2 {
+    font-size: 30px;
+}
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+.bottom-line {
+    margin-top: 25px;
+}
+/* FOOTER */
+footer {
+    font-size: 14px;
+}
+a {
+    color: black;
+}
+a:visited {
+    color: grey;
+}
+a:hover {
+    color:brown;
+}
+.address {
+    margin-bottom: 5px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
